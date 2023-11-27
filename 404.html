@@ -7,6 +7,15 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title>404</title>
+
+
+    <script>
+        // JavaScript redirect function
+        function redirectToHome() {
+
+            window.location.href = "/";
+        }
+    </script>
 </head>
 
 <body>
@@ -19,7 +28,7 @@
                 <p class="text-gray-600">
                     Sorry, the page you are looking for could not be found or has been removed.
                 </p>
-                <a href="javascript:void(0)"
+                <a href="#" onclick="redirectToHome();"
                     class="text-indigo-600 duration-150 hover:text-indigo-400 font-medium inline-flex items-center gap-x-1">
                     Go back
 
