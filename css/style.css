@@ -18,6 +18,18 @@ body {
   letter-spacing: 0.2px;
 }
 
+.news {
+  background-color: #474559;
+  color: #eee;
+  text-decoration: none;
+}
+
+.news p {
+  background-color: #474559;
+  color: #eee;
+  text-decoration: none;
+}
+
 ul {
   margin: 0;
   padding: 0;
