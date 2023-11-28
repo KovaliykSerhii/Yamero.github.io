@@ -512,18 +512,18 @@ strong {
 }
 
 .contact-info {
-  background: #474559;
-  border-radius: 0 0 3px 3px;
+  background: #ffffff;
+  margin: 20px;
   position: relative;
-  bottom: 8px;
+
 }
 
 .contact-info p,
 .contact-info a {
-  color: #f7f3f3;
+  color: #363535;
 }
 
-.social-links .uil {
+.social-links {
   color: #f7f3f3;
   font-size: 20px;
   display: block;
