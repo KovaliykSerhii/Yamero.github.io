@@ -348,6 +348,10 @@ strong {
   color: #ffffff;
 }
 
+.dark-mode .card {
+  background: #000000;
+}
+
 .dark-mode .feature-card .uil,
 .dark-mode .navbar-light .navbar-brand,
 .dark-mode h1,
